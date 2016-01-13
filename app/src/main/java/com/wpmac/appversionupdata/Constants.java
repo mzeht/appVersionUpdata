@@ -17,12 +17,7 @@ public class Constants {
     //服务器地址
     public static final String SERVER_URL = "http://172.16.2.157:8080/xj-pc/";
     public static final String SERVER_HTML_URL = "http://172.16.2.157:8080/xj-wx/";
-    //public static final String  SERVER_URL="http://www.junong365.cn/xj-pc/";
-    //public static final String  SERVER_HTML_URL="http://www.junong365.cn/";
-
-
-    //public static final String  SERVER_URL="http://10.10.168.94:8080/xj-pc/";
-
+ 
 
     //默认数据更新时间 1分钟
     public static final long defaultUpdateIntervalTime = 1 * 60 * 1000;
